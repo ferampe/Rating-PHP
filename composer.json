@@ -1,0 +1,19 @@
+{
+    "name": "ferampe/votacion",
+    "description": "Sistema de Votacion con estrellas",
+    "type": "rating php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fernando Mac",
+            "email": "ferampe@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Ferampe\\": "app/"
+        }
+    }
+}
